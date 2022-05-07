@@ -2,8 +2,6 @@
 
 游戏客户端研发.
 
-<img src="https://github-readme-stats.vercel.app/api?username=zhangyxXyz&show_icons=true&theme=vue" alt="logo" height="180" align="right" width="50%" />
-
 - 🔭 I’m currently working on **Beijing**.
 - 🌱 I’m currently learning **UnrealEngine**
 - 💬 Ask me about  **development of games or some ideas I've been working on.**
@@ -12,6 +10,11 @@
   - Hardcore fiction reader.
   - Stay up all night chasing drama.
   - Tinkering with electronics.
+
+| <a href="https://github.com/zhangyxXyz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhangyxXyz&show_icons=true&theme=buefy&hide_border=true" alt="yx.zhang's github stats" /></a> | <a href="https://github.com/zhangyxXyz"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyxXyz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+<!--<a href="https://github.com/zhangyxXyz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhangyxXyz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yx.zhang's github stats" />-->
 
 ## Follow Me
 
@@ -22,11 +25,6 @@
 
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=zhangyxXyz&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
-
-## Languages
-<a href="https://github.com/zhangyxXyz">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyxXyz&theme=vue" />
-</a>
 
 <!--
 **zhangyxXyz/zhangyxXyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
