@@ -12,9 +12,8 @@
   - Stay up all night chasing drama.
   - Tinkering with electronics.
 
-<a href="https://github.com/zhangyxXyz"><img align="left" width="50%"  height="200px" src="https://github-readme-stats.vercel.app/api?username=zhangyxXyz&show_icons=true&theme=buefy&hide_border=true" alt="yx.zhang's github stats" /></a> 
-
-<a href="https://github.com/zhangyxXyz"><img align="right" width="50%"  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyxXyz&layout=compact&theme=buefy&hide_border=true" /></a> 
+| <a href="https://github.com/zhangyxXyz"><img align="center"  height="200px" src="https://github-readme-stats.vercel.app/api?username=zhangyxXyz&show_icons=true&theme=buefy&hide_border=true" alt="yx.zhang's github stats" /></a> | <a href="https://github.com/zhangyxXyz"><img align="center"  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyxXyz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=zhangyxXyz&color=green)
 [![个人博客](https://img.shields.io/badge/-个人博客[onlyzyx.com]-c14438?style=flat-square&logo=B&logoColor=white)](https://onlyzyx.com/)
