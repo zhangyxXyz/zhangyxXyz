@@ -1,7 +1,7 @@
 
 ## Hi，I'm yx.zhang! 👋
 
-游戏客户端研发.
+Gameplay Developer.
 
 - 🔭 I’m currently working on **Beijing**.
 - 🌱 I’m currently learning **UnrealEngine**
