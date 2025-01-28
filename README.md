@@ -1,15 +1,15 @@
 
-## Hi，I'm yx.zhang! 👋
+## Hi，I'm Seiun Zhang! 👋
 
 Gameplay Developer.
 
 - 🔭 I’m currently working on **Beijing**.
 - 🌱 I’m currently learning **UnrealEngine**
 - 💬 Ask me about  **development of games or some ideas I've been working on.**
-- ⚡ Fun fact: 
-  - Write technical and life articles.
+- ⚡ Interests: 
+  - Writing technical and life-related articles.
   - Hardcore fiction reader.
-  - Stay up all night chasing drama.
+  - Staying up late watching dramas.
   - Tinkering with electronics.
 
 | <a href="https://github.com/zhangyxXyz"><img align="center"  height="200px" src="https://github-readme-stats.vercel.app/api?username=zhangyxXyz&show_icons=true&theme=buefy&hide_border=true" alt="yx.zhang's github stats" /></a> | <a href="https://github.com/zhangyxXyz"><img align="center"  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyxXyz&layout=compact&theme=buefy&hide_border=true" /></a> |
